@@ -1,5 +1,5 @@
 # quiz-marker-editor-grader-sharer
-This is a quiz user frindly quiz app built using python during the RITA Africa Bootcamp as my Captsone Project.
+This is a user frindly quiz app, built using python during the RITA Africa Bootcamp as my Captsone Project.
 It allows the examiners to edit; add and remove MCQ based questions and also set new exams.
 
 # Main Features
